@@ -1,0 +1,1 @@
+SELECT Nom,capacite FROM "salles";

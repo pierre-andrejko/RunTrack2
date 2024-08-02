@@ -1,0 +1,1 @@
+SELECT * FROM `etudiants` WHERE Naissance>"2006-07-31"

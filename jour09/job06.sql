@@ -1,0 +1,1 @@
+SELECT * FROM `etudiants` WHERE SUBSTRING(Prenom, 1, 1)="T";
